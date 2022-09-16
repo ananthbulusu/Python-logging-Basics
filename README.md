@@ -11,4 +11,4 @@ Adding events on the logger is generally oriented under five levels indicating t
 
 In this, all the basics of logging module is covered which is required for the beginners. This will belp in understanding the looging mudule at ease.
 
-Please refer to https://docs.python.org/3/howto/logging.html for the python logging documentation
+Please refer to https://docs.python.org/3/howto/logging.html for the python logging documentation for further understanding the logging module at advanced level
